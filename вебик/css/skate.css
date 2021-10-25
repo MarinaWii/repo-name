@@ -1,0 +1,199 @@
+body {
+    margin: 0;
+    margin-top: auto; 
+    background-color: #1c1c1c
+}
+header{
+    width:100%;
+    background: url(infini.png) no-repeat 3% 50%;
+    height:200px;
+    position:relative;
+
+}
+
+ul.menu {
+    margin-left: 0;
+    padding-left: 0;
+    list-style: none;
+    border-radius: 20px;
+}
+.menu li { 
+    float: left; 
+    border-radius: 5px;
+}
+li {
+    display: block;
+    width: 18em;
+    padding: 20px;
+    margin: 0 1px;
+    background: rgba( 0,0,0,.6);
+    text-decoration: none;
+    color: #333;
+    text-align: center;
+    font-family: IMPACT;
+    font-size: 17px;
+    
+}
+a:link {
+color: blue ;
+}
+a:visited {
+color:white;
+}
+a:hover {
+color:white;
+text-decoration:none;
+}
+a:active {
+color:gray;
+text-decoration:none;
+}
+.qw {
+  display: block;
+  position: absolute;
+  left: 140px;
+  top: 300px;
+  height: 400px;
+  width: 190px;
+  
+}
+.wq {
+  display: block;
+  position: absolute;
+  left: 140px;
+  top: 800px;
+  height: 400px;
+  width: 190px;
+}
+.ll {
+  display: block;
+  position: absolute;
+  left: 140px;
+  top: 1300px;
+  height: 400px;
+  width: 190px;
+}
+.rt {
+    display: block;
+    position: absolute;
+    color: #8B0000;
+    font-size: 70px;
+    top: 370px;
+    font-family: IMPACT;
+    left: 350px;
+
+}
+.tr {
+    display: block;
+    position: absolute;
+    color: #8B0000;
+    font-size: 70px;
+    top: 890px;
+    font-family: IMPACT;
+    left: 350px;
+}
+.ii {
+    display: block;
+    position: absolute;
+    color: #8B0000;
+    font-size: 70px;
+    top: 1420px;
+    font-family: IMPACT;
+    left: 350px;
+}
+.re {
+    display: block;
+    position: absolute;
+    color: whitesmoke;
+    font-size: 50px;
+    top: 320px;
+    font-family: IMPACT;
+    left: 350px;
+    
+}
+.er {
+    display: block;
+    position: absolute;
+    color: whitesmoke;
+    font-size: 50px;
+    top: 830px;
+    font-family: IMPACT;
+    left: 350px;  
+}
+.ff {
+    display: block;
+    position: absolute;
+    color: whitesmoke;
+    font-size: 50px;
+    top: 1350px;
+    font-family: IMPACT;
+    left: 350px;  
+}
+.fr{
+    display: block;
+    position: absolute;
+    font-size: 50px;
+    top: 520px;
+    font-family: IMPACT;
+    left: 350px;
+a:link {
+color: blue ;
+}
+a:visited {
+color:black;
+}
+a:hover {
+color:black;
+text-decoration:none;
+}
+a:active {
+color:gray;
+text-decoration:none;
+}
+}
+.rf {
+    display: block;
+    position: absolute;
+    font-size: 50px;
+    top: 1040px;
+    font-family: IMPACT;
+    left: 350px;
+a:link {
+color: blue ;
+}
+a:visited {
+color:black;
+}
+a:hover {
+color:black;
+text-decoration:none;
+}
+a:active {
+color:gray;
+text-decoration:none;
+}
+}
+.mm {
+    display: block;
+    position: absolute;
+    font-size: 50px;
+    top: 1570px;
+    font-family: IMPACT;
+    left: 350px;
+a:link {
+color: gray;
+}
+a:visited {
+color:white;
+}
+a:hover {
+color:white;
+text-decoration:none;
+}
+a:active {
+color:white;
+text-decoration:none;
+}
+}
+
+
